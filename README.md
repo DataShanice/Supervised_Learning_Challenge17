@@ -19,3 +19,7 @@ Believe it or not the SMOTE model was not effective either. In fact, the outcome
 F1 SCores:
 High Risk - 0.02
 Low Risk - 0.78
+
+### Summary
+
+The F1 score that was generated using the Random Oversampling techinique proved to perform the best. 
